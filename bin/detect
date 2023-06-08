@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# Always return success to indicate that this buildpack can be used
+exit 0
+
